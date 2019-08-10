@@ -1,0 +1,48 @@
+img{
+    padding: 20px;
+}
+
+p{
+    font-family: Lato;
+}
+
+form{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.form-group{
+    margin-left: 50px;
+}
+
+.form-group label{
+    display: inline-block;
+    min-width: 100px;
+    text-align: right;
+}
+
+.form-group .value{
+ display: none;
+ margin-left: 20px;
+}
+
+.editing .value{
+    display: inline;
+}
+.editing input{
+    display: none;
+}
+
+input{
+    display: inline;
+    box-sizing: border-box;
+    margin-left: 5px;
+    max-width: 400px;
+}
+
+#row li{
+    text-decoration: none;
+}
+
+button{
+    margin: 10px;
+}
